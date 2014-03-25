@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum.cs", "sum.cs\sum.cs.csproj", "{5B85DF85-FE1F-400B-8EB0-33A32636D924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel.cs", "GetVowel.cs\GetVowel.cs.csproj", "{C9393D0A-02AA-44CE-BC53-89246416116E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidRateLoop.cs", "EnsureValidRateLoop.cs\EnsureValidRateLoop.cs.csproj", "{767D0E18-8DA5-44D6-BFF3-E4114E0A0331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B85DF85-FE1F-400B-8EB0-33A32636D924}.Debug|x86.ActiveCfg = Debug|x86
+		{5B85DF85-FE1F-400B-8EB0-33A32636D924}.Debug|x86.Build.0 = Debug|x86
+		{5B85DF85-FE1F-400B-8EB0-33A32636D924}.Release|x86.ActiveCfg = Release|x86
+		{5B85DF85-FE1F-400B-8EB0-33A32636D924}.Release|x86.Build.0 = Release|x86
+		{C9393D0A-02AA-44CE-BC53-89246416116E}.Debug|x86.ActiveCfg = Debug|x86
+		{C9393D0A-02AA-44CE-BC53-89246416116E}.Debug|x86.Build.0 = Debug|x86
+		{C9393D0A-02AA-44CE-BC53-89246416116E}.Release|x86.ActiveCfg = Release|x86
+		{C9393D0A-02AA-44CE-BC53-89246416116E}.Release|x86.Build.0 = Release|x86
+		{767D0E18-8DA5-44D6-BFF3-E4114E0A0331}.Debug|x86.ActiveCfg = Debug|x86
+		{767D0E18-8DA5-44D6-BFF3-E4114E0A0331}.Debug|x86.Build.0 = Debug|x86
+		{767D0E18-8DA5-44D6-BFF3-E4114E0A0331}.Release|x86.ActiveCfg = Release|x86
+		{767D0E18-8DA5-44D6-BFF3-E4114E0A0331}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
